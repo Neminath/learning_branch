@@ -1,2 +1,2 @@
 This is for learning purpose.
-This is test.
+This is not for test.
